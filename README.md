@@ -218,3 +218,14 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 *Happy coding!* 🚀
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
