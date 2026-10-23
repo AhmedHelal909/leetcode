@@ -254,4 +254,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/AhmedHelal909/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
