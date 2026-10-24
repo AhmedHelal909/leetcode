@@ -224,6 +224,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AhmedHelal909/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -269,4 +270,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
