@@ -225,6 +225,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/AhmedHelal909/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AhmedHelal909/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
@@ -278,9 +279,14 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AhmedHelal909/leetcode/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
