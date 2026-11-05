@@ -253,6 +253,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AhmedHelal909/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -265,6 +266,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [0151-reverse-words-in-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AhmedHelal909/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AhmedHelal909/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Database
 | Problem Name | Difficulty |
@@ -291,4 +293,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/AhmedHelal909/leetcode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
