@@ -221,72 +221,74 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/AhmedHelal909/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AhmedHelal909/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AhmedHelal909/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHelal909/leetcode/tree/master/0002-add-two-numbers) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHelal909/leetcode/tree/master/0002-add-two-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHelal909/leetcode/tree/master/0002-add-two-numbers) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AhmedHelal909/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0584-find-customer-referee](https://github.com/AhmedHelal909/leetcode/tree/master/0584-find-customer-referee) |
 ## Euclidean Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/AhmedHelal909/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Longest Increasing Subsequence
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
