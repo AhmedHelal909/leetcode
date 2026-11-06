@@ -224,6 +224,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AhmedHelal909/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AhmedHelal909/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AhmedHelal909/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -265,6 +266,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AhmedHelal909/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AhmedHelal909/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -286,6 +288,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AhmedHelal909/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
