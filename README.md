@@ -229,6 +229,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [0283-move-zeroes](https://github.com/AhmedHelal909/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/AhmedHelal909/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AhmedHelal909/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Hash Table
@@ -263,6 +264,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/AhmedHelal909/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
