@@ -232,6 +232,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [0643-maximum-average-subarray-i](https://github.com/AhmedHelal909/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/AhmedHelal909/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AhmedHelal909/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/AhmedHelal909/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AhmedHelal909/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedHelal909/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -243,6 +244,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/AhmedHelal909/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AhmedHelal909/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Linked List
