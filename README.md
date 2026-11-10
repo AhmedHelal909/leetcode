@@ -221,8 +221,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AhmedHelal909/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AhmedHelal909/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -236,28 +236,29 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedHelal909/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AhmedHelal909/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/AhmedHelal909/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHelal909/leetcode/tree/master/0002-add-two-numbers) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHelal909/leetcode/tree/master/0002-add-two-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/AhmedHelal909/leetcode/tree/master/0002-add-two-numbers) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -266,16 +267,16 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AhmedHelal909/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AhmedHelal909/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AhmedHelal909/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AhmedHelal909/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedHelal909/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/AhmedHelal909/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AhmedHelal909/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AhmedHelal909/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -284,45 +285,46 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0584-find-customer-referee](https://github.com/AhmedHelal909/leetcode/tree/master/0584-find-customer-referee) |
 ## Euclidean Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/AhmedHelal909/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AhmedHelal909/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/AhmedHelal909/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AhmedHelal909/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AhmedHelal909/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/AhmedHelal909/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/AhmedHelal909/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Longest Increasing Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedHelal909/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0392-is-subsequence](https://github.com/AhmedHelal909/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedHelal909/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AhmedHelal909/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
