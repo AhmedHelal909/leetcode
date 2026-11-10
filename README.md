@@ -237,12 +237,14 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AhmedHelal909/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/AhmedHelal909/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AhmedHelal909/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AhmedHelal909/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedHelal909/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AhmedHelal909/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AhmedHelal909/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
