@@ -271,6 +271,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmedHelal909/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AhmedHelal909/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/AhmedHelal909/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/AhmedHelal909/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,4 +334,12 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AhmedHelal909/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AhmedHelal909/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AhmedHelal909/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
